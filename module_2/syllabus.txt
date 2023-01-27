@@ -1,0 +1,9 @@
+Video 1 : Introduction to kaggle
+Video 2 : Mean, Median and Mode
+Video 3 : Basic Pandas Operations and Describe
+Video 4 : Conditional Selection using LOC and ILOC
+Video 5 : Pandas Apply Function
+Video 6 : Groupby in Pandas
+Video 7 : Correlation and underlying Mathematics
+Video 8 : Merging and Joining dataframes
+Video 9 : Introduction to the Mid Project
